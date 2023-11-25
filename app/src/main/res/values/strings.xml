@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Renan_Favano_RM82432</string>
+    <string name="localiza_o">Localização</string>
+    <string name="drone">Drone</string>
+    <string name="tipo_de_lavoura">Tipo de Lavoura</string>
+    <string name="pragas_e_doen_as">Pragas e Doenças</string>
+    <string name="tipo_de_adubo">Tipo de Adubo</string>
+    <string name="droneid">DroneID</string>
+    <string name="localiza">Localiza</string>
+    <string name="tipocultura">TipoCultura</string>
+    <string name="pragas">Pragas</string>
+    <string name="user">User</string>
+    <string name="senha">Senha</string>
+    <string name="entrar">Entrar</string>
+</resources>
